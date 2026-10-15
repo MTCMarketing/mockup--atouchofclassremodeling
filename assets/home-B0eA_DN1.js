@@ -1,1 +1,0 @@
-import{c as o,j as e,R as r,S as n}from"./Site-DMtPA_Lz.js";const t=document.getElementById("root");if(!t)throw new Error("Root element not found");o.createRoot(t).render(e.jsx(r.StrictMode,{children:e.jsx(n,{page:"home"})}));

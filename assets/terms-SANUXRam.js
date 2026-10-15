@@ -1,0 +1,1 @@
+import{c as o,j as t,R as r,S as n}from"./Site-BJ0CcjoF.js";const e=document.getElementById("root");if(!e)throw new Error("Root element not found");o.createRoot(e).render(t.jsx(r.StrictMode,{children:t.jsx(n,{page:"terms"})}));
